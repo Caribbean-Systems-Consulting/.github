@@ -16,6 +16,12 @@ Brindamos servicios de:
 
 Estamos a la disposicion de escuchar tu problema y brindarte la mejor solucion.
 
+Email: info@casycon.com 
+
+WebPage: https://casycon.com
+
+Telefono: 1-809-222-8867
+
 <!--
 
 **Here are some ideas to get you started:**
