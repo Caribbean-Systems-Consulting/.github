@@ -7,17 +7,18 @@ Brindamos servicios de:
 - <strong> Consultoría: </strong> Consta de orientación experta en el ámbito tecnológico, para optimizar operaciones o implementar soluciones nuevas.
 - <strong> Infraestructura: </strong> Ya sea que construya desde cero o busque mejorar lo que ya tiene, podemos ayudarle. 
 - <strong> Desarrollo: </strong> Soluciones a medida para tus necesidades tecnológicas. Ya sea que piense crear una nueva aplicación o mejorar un sistema existente podemos ayudarle.
-- <strong> Seguridad y control de acceso: </strong>soluciones integrales para proteger sus instalaciones y recursos. Desde sistemas de vigilancia (CCTV) hasta sistemas de control de acceso físico.
+- <strong> Seguridad y control de acceso: </strong>Soluciones integrales para proteger sus instalaciones y recursos. Desde sistemas de vigilancia (CCTV) hasta sistemas de control de acceso físico.
 
 
 
-Estamos a la disposicion de escuchar tu problema y brindarte la mejor solucion.
+Estamos a la disposición de escuchar tu problema y buscar la mejor solución.
 
 Email: info@casycon.com 
 
-WebPage: https://casycon.com
+Web: https://casycon.com
 
-Telefono: 1-829-222-8867
+Teléfono: 1-829-222-8867
+
 
 <!--
 
