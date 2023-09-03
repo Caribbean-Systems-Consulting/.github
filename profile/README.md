@@ -17,7 +17,7 @@ Email: info@casycon.com
 
 Web: https://casycon.com
 
-Teléfono: 1-829-222-8867
+Teléfono: 1-829-222-8867 (Whatpsapp)
 
 
 <!--
