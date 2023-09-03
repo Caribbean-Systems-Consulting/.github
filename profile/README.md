@@ -1,18 +1,15 @@
-# Acerca de nosotros
+# Quienes somos y que hacemos?
 
-Somos una empresa de servicios de tecnologia, nacimos en el año 2023 con la finalidad de brindar un servicio etico y de calidad a nuestros clientes, estamos en la disposicion de solucionar los problemas de nuestros clientes con el mas alto nivel de compromiso y responsabilidad posible.
+Somos una empresa de servicios de tecnología, nacimos en el año 2023 con la finalidad de brindar un servicio de calidad, tomando la ética como enfoque, estamos en la disposición de solucionar los problemas de nuestros clientes con el mas alto nivel de compromiso y responsabilidad.
 
 Brindamos servicios de:
-- Instalacion y configuracion de Servidores (Linux | MacOS | Windows)
-- Servicios en la Nube 
-- Redes de Datos (LAN | WiFi | Fibra)
-- Configuracion de Equipos de Datos ( Switches | Routers )
-- Cableado Estrucutrado 
-- Seguridad ( CCTV | Control de Acceso )
-- Ciberseguridad
-- Analisis de costos y/o riesgos
-- Centrales telefonicas IP
-- Soporte Tecnico a equipos de computo y servidores
+
+- <strong> Consultoría: </strong> Consta de orientación experta en el ámbito tecnológico, para optimizar operaciones o implementar soluciones nuevas.
+- <strong> Infraestructura: </strong> Ya sea que construya desde cero o busque mejorar lo que ya tiene, podemos ayudarle. 
+- <strong> Desarrollo: </strong> Soluciones a medida para tus necesidades tecnológicas. Ya sea que piense crear una nueva aplicación o mejorar un sistema existente podemos ayudarle.
+- <strong> Seguridad y control de acceso: </strong>soluciones integrales para proteger sus instalaciones y recursos. Desde sistemas de vigilancia (CCTV) hasta sistemas de control de acceso físico.
+
+
 
 Estamos a la disposicion de escuchar tu problema y brindarte la mejor solucion.
 
@@ -20,7 +17,7 @@ Email: info@casycon.com
 
 WebPage: https://casycon.com
 
-Telefono: 1-809-222-8867
+Telefono: 1-829-222-8867
 
 <!--
 
