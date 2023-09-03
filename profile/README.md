@@ -1,6 +1,6 @@
 # Quienes somos y que hacemos?
 
-Somos una empresa de servicios de tecnología, nacimos en el año 2023 con la finalidad de brindar un servicio de calidad, tomando la ética como enfoque, estamos en la disposición de solucionar los problemas de nuestros clientes con el mas alto nivel de compromiso y responsabilidad.
+Somos una empresa de servicios de tecnología, nacimos en el año 2023 con la finalidad de brindar un servicio de calidad, tomando la ética como principio, estamos en la disposición de solucionar los problemas de nuestros clientes con el mas alto nivel de compromiso y responsabilidad.
 
 Brindamos servicios de:
 
